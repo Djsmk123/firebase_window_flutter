@@ -1,11 +1,6 @@
 import 'package:firebase_windows/screens/signup_screen.dart';
 import 'package:flutter/material.dart';
 
-import 'Firebase/firebase_servcies.dart';
-
-
-
-
 void main() {
   runApp(const MyApp());
 }
@@ -35,4 +30,3 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-
